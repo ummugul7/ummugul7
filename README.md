@@ -3,10 +3,11 @@
 
 - 🌱 Şu an React öğreniyorum.
 
-- 📫 İletişim: ummugulcaglar8@gmail.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - 📫 İletişim: ummugulcaglar8@gmail.com
 </p>
 
 
