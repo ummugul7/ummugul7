@@ -1,7 +1,7 @@
 <h1 align="center">Selam! Ben Ümmügül</h1>
 <h7 align="center">Sakarya Üniversitesi bilgisayar mühendisliği 3. sınıf öğrencisiyim. Python ile veri analizi (EDA), regresyon ve sınıflandırma modelleri üzerine çalışmalar yürüttüm. Spring Boot ve ASP.NET Core ile backend projeler geliştirdim.Şu anda React ile Full-Stack yetkinlik kazanmayı hedefliyorum.</h7>
 
-- 🌱 Şu an React öğreniyorum.
+
 
 
 
