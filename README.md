@@ -1,5 +1,5 @@
 <h1 align="center">Selam! Ben Ümmügül</h1>
-<h7 align="center">Sakarya Üniversitesi bilgisayar mühendisliği 3. sınıf öğrencisiyim. Python ile veri analizi (EDA), regresyon ve sınıflandırma modelleri üzerine çalışmalar yürüttüm. Spring Boot ve ASP.NET Core ile backend projeler geliştirdim.zure DevOps ortamında CI/CD pipeline yazımı, Docker ile containerization, Nginx reverse proxy yapılandırması ve Azure servisleri (VM, ACR, PostgreSQL) kullanarak uçtan uca deployment süreçleri yürüttüm.Şu anda React ile Full-Stack yetkinlik kazanmayı hedefliyorum.</h7>
+<h7 align="center">Sakarya Üniversitesi bilgisayar mühendisliği 3. sınıf öğrencisiyim. Python ile veri analizi (EDA), regresyon ve sınıflandırma modelleri üzerine çalışmalar yürüttüm. Spring Boot ve ASP.NET Core ile backend projeler geliştirdim.zure DevOps ortamında CI/CD pipeline yazımı, Docker ile containerization, Nginx reverse proxy yapılandırması ve Azure servisleri (VM, ACR, PostgreSQL) kullanarak uçtan uca deployment süreçleri yürüttüm</h7>
 
 
 
