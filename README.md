@@ -28,6 +28,8 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></td>
     <td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/></td>
+  
   </tr>
 </table>
 
